@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.py[cod]
+*.bak
+*.bak_*
+*~
+.DS_Store
+.env

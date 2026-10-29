@@ -1,0 +1,13 @@
+Platform	Outcome	Inflammatory signature	N	Beta	95% CI	P value	Across-platform BH FDR
+GPL11154	Estrogen response, early	IL6/JAK/STAT3	2558	0.0259658	0.0172 to 0.0347	6.0505e-09	1.2101e-08
+GPL11154	Estrogen response, early	Inflammatory response	2558	0.0275047	0.0187 to 0.0363	8.84823e-10	2.12358e-09
+GPL11154	Estrogen response, early	TNF-alpha/NF-kappa B	2558	0.0602758	0.0518 to 0.0687	9.03433e-43	5.4206e-42
+GPL11154	Estrogen response, late	IL6/JAK/STAT3	2558	0.0408257	0.0330 to 0.0487	6.68645e-24	2.67458e-23
+GPL11154	Estrogen response, late	Inflammatory response	2558	0.0408663	0.0330 to 0.0488	1.0614e-23	3.1842e-23
+GPL11154	Estrogen response, late	TNF-alpha/NF-kappa B	2558	0.0625326	0.0549 to 0.0702	2.67712e-55	3.21254e-54
+GPL18573	Estrogen response, early	IL6/JAK/STAT3	261	-0.00297877	-0.0307 to 0.0248	0.832824	0.860739
+GPL18573	Estrogen response, early	Inflammatory response	261	-0.00251882	-0.0308 to 0.0257	0.860739	0.860739
+GPL18573	Estrogen response, early	TNF-alpha/NF-kappa B	261	0.0373961	0.0090 to 0.0658	0.0101441	0.0152161
+GPL18573	Estrogen response, late	IL6/JAK/STAT3	261	0.0264313	0.0009 to 0.0519	0.0422792	0.0563723
+GPL18573	Estrogen response, late	Inflammatory response	261	0.0262107	0.0003 to 0.0522	0.0478206	0.0573848
+GPL18573	Estrogen response, late	TNF-alpha/NF-kappa B	261	0.0488693	0.0229 to 0.0748	0.000260062	0.000445821

@@ -1,0 +1,5 @@
+# R 4.5.0 was used during development.
+# Install limma from Bioconductor for scripts that call library(limma):
+# if (!requireNamespace("BiocManager", quietly = TRUE))
+#     install.packages("BiocManager")
+# BiocManager::install("limma")

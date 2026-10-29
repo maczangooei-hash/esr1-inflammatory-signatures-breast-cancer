@@ -1,0 +1,25 @@
+Platform	Analysis	Outcome	Inflammatory signature	N	Standardized beta	HC3 95% CI	HC3 P value	Across-platform HC3 BH FDR
+GPL11154	Original scores	Estrogen response, early	IL6/JAK/STAT3	2558	0.0938227	0.0569 to 0.1307	6.70385e-07	1.34077e-06
+GPL11154	Original scores	Estrogen response, early	Inflammatory response	2558	0.0993831	0.0629 to 0.1359	1.03391e-07	2.48138e-07
+GPL11154	Original scores	Estrogen response, early	TNF-alpha/NF-kappa B	2558	0.217795	0.1839 to 0.2517	2.54764e-35	1.52859e-34
+GPL11154	Original scores	Estrogen response, late	IL6/JAK/STAT3	2558	0.180518	0.1410 to 0.2201	6.52794e-19	1.95838e-18
+GPL11154	Original scores	Estrogen response, late	Inflammatory response	2558	0.180697	0.1416 to 0.2198	2.6154e-19	1.04616e-18
+GPL11154	Original scores	Estrogen response, late	TNF-alpha/NF-kappa B	2558	0.276499	0.2387 to 0.3143	5.19126e-45	6.22951e-44
+GPL18573	Original scores	Estrogen response, early	IL6/JAK/STAT3	261	-0.0115299	-0.1343 to 0.1112	0.853398	0.879961
+GPL18573	Original scores	Estrogen response, early	Inflammatory response	261	-0.00974961	-0.1368 to 0.1173	0.879961	0.879961
+GPL18573	Original scores	Estrogen response, early	TNF-alpha/NF-kappa B	261	0.144749	0.0262 to 0.2633	0.0169226	0.0253838
+GPL18573	Original scores	Estrogen response, late	IL6/JAK/STAT3	261	0.122912	-0.0183 to 0.2641	0.0877664	0.117022
+GPL18573	Original scores	Estrogen response, late	Inflammatory response	261	0.121886	-0.0231 to 0.2669	0.0991533	0.118984
+GPL18573	Original scores	Estrogen response, late	TNF-alpha/NF-kappa B	261	0.227255	0.0910 to 0.3635	0.00116617	0.00199916
+GPL11154	Shared genes removed	Estrogen response, early	IL6/JAK/STAT3	2558	0.0687609	0.0314 to 0.1061	0.000314178	0.000628355
+GPL11154	Shared genes removed	Estrogen response, early	Inflammatory response	2558	0.0724359	0.0354 to 0.1095	0.000128717	0.00030892
+GPL11154	Shared genes removed	Estrogen response, early	TNF-alpha/NF-kappa B	2558	0.167645	0.1328 to 0.2025	9.65682e-21	5.79409e-20
+GPL11154	Shared genes removed	Estrogen response, late	IL6/JAK/STAT3	2558	0.120782	0.0810 to 0.1606	2.94977e-09	1.17991e-08
+GPL11154	Shared genes removed	Estrogen response, late	Inflammatory response	2558	0.118708	0.0793 to 0.1581	4.03054e-09	1.20916e-08
+GPL11154	Shared genes removed	Estrogen response, late	TNF-alpha/NF-kappa B	2558	0.1859	0.1473 to 0.2244	7.00666e-21	5.79409e-20
+GPL18573	Shared genes removed	Estrogen response, early	IL6/JAK/STAT3	261	-0.0288312	-0.1544 to 0.0968	0.651555	0.659309
+GPL18573	Shared genes removed	Estrogen response, early	Inflammatory response	261	-0.0292383	-0.1597 to 0.1012	0.659309	0.659309
+GPL18573	Shared genes removed	Estrogen response, early	TNF-alpha/NF-kappa B	261	0.100195	-0.0240 to 0.2244	0.11343	0.170145
+GPL18573	Shared genes removed	Estrogen response, late	IL6/JAK/STAT3	261	0.066653	-0.0754 to 0.2087	0.35634	0.468707
+GPL18573	Shared genes removed	Estrogen response, late	Inflammatory response	261	0.0637978	-0.0823 to 0.2099	0.390589	0.468707
+GPL18573	Shared genes removed	Estrogen response, late	TNF-alpha/NF-kappa B	261	0.135717	-0.0054 to 0.2768	0.0593732	0.101783

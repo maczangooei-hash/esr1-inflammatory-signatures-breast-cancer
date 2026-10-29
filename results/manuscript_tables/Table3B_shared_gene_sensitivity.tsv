@@ -1,0 +1,13 @@
+Platform	Outcome	Inflammatory signature	N original	Original beta	Original BH FDR (12 tests)	N sensitivity	Sensitivity beta	Shared-gene-removed BH FDR (12 tests)
+GPL11154	Estrogen response, early	IL6/JAK/STAT3	2558	0.0259658	1.2101e-08	2558	0.0189828	4.3594e-05
+GPL11154	Estrogen response, early	Inflammatory response	2558	0.0275047	2.12358e-09	2558	0.0199973	2.06942e-05
+GPL11154	Estrogen response, early	TNF-alpha/NF-kappa B	2558	0.0602758	5.4206e-42	2558	0.0462815	9.02729e-25
+GPL11154	Estrogen response, late	IL6/JAK/STAT3	2558	0.0408257	2.67458e-23	2558	0.027865	5.33179e-11
+GPL11154	Estrogen response, late	Inflammatory response	2558	0.0408663	3.1842e-23	2558	0.0273865	1.14105e-10
+GPL11154	Estrogen response, late	TNF-alpha/NF-kappa B	2558	0.0625326	3.21254e-54	2558	0.0428878	9.02729e-25
+GPL18573	Estrogen response, early	IL6/JAK/STAT3	261	-0.00297877	0.860739	261	-0.00739101	0.605587
+GPL18573	Estrogen response, early	Inflammatory response	261	-0.00251882	0.860739	261	-0.00749536	0.605587
+GPL18573	Estrogen response, early	TNF-alpha/NF-kappa B	261	0.0373961	0.0152161	261	0.0256855	0.12277
+GPL18573	Estrogen response, late	IL6/JAK/STAT3	261	0.0264313	0.0563723	261	0.0147051	0.362705
+GPL18573	Estrogen response, late	Inflammatory response	261	0.0262107	0.0573848	261	0.0140752	0.362705
+GPL18573	Estrogen response, late	TNF-alpha/NF-kappa B	261	0.0488693	0.000445821	261	0.0299421	0.0527852

@@ -1,0 +1,17 @@
+Platform	Characteristic	Value
+GPL11154	Analytic sample	2558
+GPL11154	Age at diagnosis, median (IQR)	64 (53–72)
+GPL11154	Tumor size, median (IQR)	17 (12–23)
+GPL11154	PAM50 subtype: Basal, n (%)	76 (3.0%)
+GPL11154	PAM50 subtype: Her2, n (%)	176 (6.9%)
+GPL11154	PAM50 subtype: LumA, n (%)	1474 (57.6%)
+GPL11154	PAM50 subtype: LumB, n (%)	660 (25.8%)
+GPL11154	PAM50 subtype: Normal, n (%)	172 (6.7%)
+GPL18573	Analytic sample	261
+GPL18573	Age at diagnosis, median (IQR)	64 (52–72)
+GPL18573	Tumor size, median (IQR)	17 (13–23)
+GPL18573	PAM50 subtype: Basal, n (%)	3 (1.1%)
+GPL18573	PAM50 subtype: Her2, n (%)	21 (8.0%)
+GPL18573	PAM50 subtype: LumA, n (%)	155 (59.4%)
+GPL18573	PAM50 subtype: LumB, n (%)	62 (23.8%)
+GPL18573	PAM50 subtype: Normal, n (%)	20 (7.7%)
