@@ -41,8 +41,10 @@ Hallmark scores represent gene-expression patterns, not direct measurements of e
 
 ## Data availability
 
-Source datasets are publicly available from GEO under accessions GSE96058 and GSE126003. The public repository URL will be added after release.
+Source datasets are publicly available from GEO under accessions GSE96058 and GSE126003. Analysis scripts, selected results tables, and Figure 1 are available at https://github.com/maczangooei-hash/esr1-inflammatory-signatures-breast-cancer
 
 ## License
 
-A license has not yet been selected. Redistribution terms for included materials must be checked before public release.
+The original analysis scripts and figure-generation Python script are licensed under the MIT License; see [LICENSE-CODE](LICENSE-CODE).
+
+This license does not automatically cover the results tables, figures, third-party datasets, or other third-party materials. Their reuse may be subject to separate terms.
